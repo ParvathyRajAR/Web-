@@ -1,0 +1,89 @@
+Login
+<html>
+<head>
+<title>Login Page</title>
+<body bgcolor="pink">
+<center>
+<h1>Login</h1><hr>
+<form>
+User Name
+<input type="text" name="username" placeholder="Username"><br>
+Password
+<input type="password" name="password" placeholder="Password"><br>
+<button><a href="shop.html">login</a></button>
+</form>
+</center>
+</body>
+<head>
+</html>
+
+<html>
+<head>
+<title>all</title>
+</head>
+<body bgcolor="lavender">
+<center>
+<h1><font color="white">
+<table width="100%" border="5px black">
+<th>
+<td colspan="3"><a href="homeshop.html" target="j"><h1><link rel="stylesheet"href="a.css"><center>Home
+</a></th>
+<th><td><a href="kids.html" target="j"><h1><link rel="stylesheet"href="a.css"><center>kids</a></th>
+<th><td><a href="women.html" target="j"><h1><link rel="stylesheet"href="a.css"><center>Women</a></th>
+<th><td><a href="men.html" target="j"><h1><link rel="stylesheet"href="a.css"><center>Mens</a></h1></tr></th>
+</center>
+</body>
+</html>
+
+<html>
+<head>
+<title>shop</title>
+<frameset rows="15%,*">
+<frame src="all.html" name="courses">
+<frame src="displayshop.html" name="j">
+</frameset>
+</head>
+</html>
+
+<html>
+<head>
+<body bgcolor="tan">
+<center>
+<hr>
+<h1 style="color:black;font-family:corsiva">A R COLLECTIONS</h1></center>
+<hr>
+<h1>s<a href="C:\Users\parva\OneDrive\Documents\displayshop.html"><link rel="stylesheet"href="web.css">back</a>
+<center>
+<img src="C:\Users\parva\Downloads\fashion pic.jpg" width="100%" height="500"></img>
+<img src="C:\Users\parva\Downloads\images.jpg" width="100%" height="500"></img>
+</html>
+
+<html>
+<head>
+<body bgcolor="white">
+<h1><a href="C:\Users\parva\OneDrive\Documents\displayshop.html"><link rel="stylesheet"href="web.css">back</a>
+<center>
+<img src="C:\Users\parva\Downloads\image (3).jpeg" width="100%" height="500"></img>
+</html>
+
+<html>
+<head>
+<body bgcolor="lavender">
+<h1><a href="C:\Users\parva\OneDrive\Documents\displayshop.html"><link rel="stylesheet"href="web.css">back</a></h1>
+<center>
+<img src="C:\Users\parva\Downloads\korean-mens-fashion-1.jpg"></img>
+</html>           
+
+<html>
+<head>
+<body bgcolor="tan">
+<h1><a href="C:\Users\parva\OneDrive\Documents\displayshop.html"><link rel="stylesheet"href="web.css">back</a>
+<center>
+<img src="C:\Users\parva\Downloads\image (2).jpeg" weight="500" height="500"></img>
+</center>
+</html>
+
+
+
+
+

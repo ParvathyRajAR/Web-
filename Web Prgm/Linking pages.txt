@@ -1,0 +1,103 @@
+<html>
+<head>
+<title><table></title></head>
+<body bgcolor= “tan”></body bgcolor></body>
+<h1 align= “center”><font color= “pink”><u>PROFILE</u></font color></h1>
+<table cellpadding = “5” cellspacing = “20” border = “5” width = “50%” height = “40%” align= “center” border color= “blue” table bgcolor= “violet”></table>
+<h2>>font size= “2”><a href= “qualification.html”>CLICK HERE: Qualification</a></font size></h2>
+<h3><font size= “2”><a href= “gallery.html”>CLICK HERE: Gallery</a></font size></h3>
+<h4><font size= “2”><a href= “2”><a href= “image.html”>CLICK HERE: Image</a></font size></h4>
+<h5><font size= “2”><a href= “links.html”>CLICK HERE: Links</a></font size></h5>
+<tr><td>NAME
+<td>Parvathy Raj A R</tr>
+<tr><td>EMAIL ID
+<td>parvathyraj321@gmail.com</tr>
+<tr><td>MOBILE NUMBER
+<td>7012867705</tr>
+<tr><td>GENDER
+<td>FEMALE</tr>
+<tr><td>DOB
+<td>22/01/2001</tr>
+<tr><td>ADDRESS
+<td>Arunnivas uzhuva Pattankad P O</tr>
+<tr><td>PINCODE
+<td>688531</tr>
+<tr><td>STATE
+<td>KERALA</tr>
+</html>
+
+<html>
+<head>
+<title></title>
+<table><body>
+<body align= “center”><font size= “40”><body bgcolor= “red”>TIME TABLE-GALLERY SHOWS</body bgcolor></font size></body>
+<h1><a href= “profile.html”>CLICK HERE: Profile</a></h1>
+<h2><a href= “image.html”>CLICK HERE: Image</a></h2>
+<h3>< a href= “qualification.html”>CLICK HERE: qualification</a></h3>
+<h4><a href= “links.html”>CLICK HERE: Links</a></h4>
+<table order=5 cellspacing=5 cell padding=10 table bgcolor= “yellow” height= “20%” width= “10%” align= “center” </table>
+<tr><td>Gallery Name
+<td>Place
+<td>Date</tr>
+<tr><td>ParvthyRaj
+<td>Kalady
+<td>22jan2001</tr>
+<tr><td>Jayasurya
+<td>Angamaly
+<td>02mar2002</tr>
+</head>
+</html>
+                                                        
+
+<html>
+<head>
+<title></title>
+<body bgcolor= “cream”></body>
+<img src= “1.jpg” width= “470” height= “300”>
+<img src= “2.jpg” width= “470” height= “300”>
+<img src= “3.jpg” width= “470” height= “300”>
+<img src= “2.jpg” width= “470” height= “300”>
+<img src= “3.jpg” width= “470” height= “300”>
+<img src= “1.jpg” width= “470” height= “300”>
+<h1>< a href= “profile.html”>CLICK HERE: Profile</a><h1>
+<h2>< a href= “gallery.html”>CLICK HERE: Gallery</a></h2>
+<h3><a href= “qualification.html”>CLICK HERE: Qualification</a><h3>
+<h4>< a href= “links.html”>CLICK HERE: Links</a><h1>
+</head>
+</html>
+
+<html>
+<head>
+<title></title>
+<body><center><hr>
+<table border= “3”  cellpadding=5 cellspacing=10 height= “20%” width = “20%” align= “center” </table>
+<h1 align= “center”><u><Lins</u></h1>
+<tr><td>Pages
+<td>Link</tr>
+<tr><td>Image Gallery
+<td><font color= “Blue”><a href= “Image.html”></font color>CLICK HERE</a>
+</tr><tr>
+<td>Time-Table Gallery Shows
+<td><font color= “Blue”><a href= “gallery.html”></font color>CLICK HERE</a>
+</tr><tr>
+<td>Profile
+<td><font color= “Blue”><a href= “profile.html”></font color>CLICK HERE</a></tr>
+<h1><font size= “2”><a href= “qualification.html”>CLICK HERE: Qualification</font size></a>
+</head>
+</html>           
+
+<html>
+<head>
+<title></title>
+<body bgcolor= “violet”></body>
+<h1><font color= “yellow” ><a href= “profile.html”>CLICK HERE: Profile</a></font color></h1>
+<h2><font color= “orange” ><a href= “image.html”>CLICK HERE: Image</a><h2>
+<h3><font color= “white” ><a href= “gallery.html”>CLICK HERE: Gallery</a></font color></h3>
+<h4><font size= “2”><font color= “red” ><a href= “links.html”>CLICK HERE: Links</a></font color></h4>
+<h5><font color= “red” >Parvathy Raj A R</font color></h5>
+<h6><font color= “blue” >MCA</font color></h6>
+<h7><font color= “blue” >B.Sc Zoology</font color></h7>
+</head>
+</html>
+
+

@@ -1,0 +1,12 @@
+<html>
+<head>
+<body bgcolor="tan" ><hr>
+<h1><u><font color= “black”>Adi Shankara Institute of Engineering and Technology</font size></font color></u></h1> <hr>
+<center>
+<h2>kalady</h2>
+<h3>Contact Number9995246345</h3></center>
+<h4><font color= “orange”><marquee>COURSES: Btech, Mtech, MBA, MCA</font size></font color></marquee></h4><centre>
+<img src= "C:\Users\parva\Downloads\Adi pic.jpeg" width= “1000” height= “100">
+</img>
+</body>
+</html>

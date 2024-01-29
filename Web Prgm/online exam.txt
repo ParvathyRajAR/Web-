@@ -1,0 +1,151 @@
+<html>
+<head>
+<script>
+function ques()
+{
+var score=0
+if (document.getElementById("1").checked)
+{
+score=score+1;
+}
+if (document.getElementById("2").checked)
+{
+score=score+1;
+}
+if (document.getElementById("3").checked)
+{
+score=score+1;
+}
+if (document.getElementById("4").checked)
+{
+score=score+1;
+}
+if (document.getElementById("5").checked)
+{
+
+score=score+1;
+}
+if (document.getElementById("6").checked)
+{
+score=score+1;
+}
+if (document.getElementById("7").checked)
+{
+score=score+1;
+}
+if (document.getElementById("8").checked)
+{
+score=score+1;
+}
+if (document.getElementById("9").checked)
+{
+score=score+1;
+}
+if (document.getElementById("10").checked)
+{
+score=score+1;
+}
+alert("your score is "+score);
+}
+</script>
+</head>
+<body>
+<center><h1><u>ONLINE EXAMINATIONS</u></h1></center>
+<br>
+<table>
+ 
+
+<tr>
+<td>1._____is our country?</td>
+
+<td>India<input type ="radio" name="a1" value="india" id="1">
+<td>America<input type="radio"  value="america" name="a1" value="america">
+<td>Australia<input type="radio" name="a1" value="aust">
+<td>England<input type="radio" name="a1" value
+eng">
+<td>none of these<input type="radio" name="a1" value="non"></td>
+</tr>
+<tr>
+<td>2.what is our national animal?</td>
+<td>Cat<input type="radio" name="a2" value="america">
+<td>Dog<input type="radio" name="a2" value="dog">
+<td>Tiger<input type="radio" name="a2" value="tiger" id="2">
+<td>lion<input type="radio" name="a2" value="lion">
+<td>none of these<input type="radio" name="a2" value="non"></td>
+</tr>
+<tr>
+<td>3.How many days in a week?</td>
+<td>4<input type="radio" name="a3" value="america">
+<td>6<input type="radio" name="a3" value="6">
+<td>7<input type="radio" name="a3" value="5" id="3">
+<td>9<input type="radio" name="a3" value="9">
+<td>none of these<input type="radio" name="a3" value="non"></td>
+</tr>
+<tr>
+<td>4.How many months in a year?
+<td>7<input type="radio" name="a4">
+td>12<input type="radio" name="a4" id="4">
+ 
+
+<td>10<input type="radio" name="a4">
+<td>11<input type="radio" name="a4">
+<td>none of these<input type="radio" name="a4">
+</tr>
+<tr>
+<td>5.what is the color of tomato?
+<td>Red<input type="radio" name="a5" id="5">
+<td>Yellow<input type="radio" name="a5">
+<td>Pink<input type="radio" name="a5">
+<td>Green<input type="radio" name="America">
+<td>none of these<input type="radio" name="a5">
+</tr>
+<tr>
+<td>6.longest river in India?
+<td>Ganga<input type="radio" name="a6" id="6">
+<td>Yamuna<input type="radio" name="a6">
+<td>Nile<input type="radio" name="a6" >
+<td>Kaveri<input type="radio" name="a6">
+<td>none of these<input type="radio" name="a6">
+</tr>
+<tr>
+<td>7.Which is the largest coffee-producing state of India?
+<td>kerala<input type="radio" name="a7">
+<td>Tamil Nadu<input type="radio" name="a7">
+<td>Karnataka<input type="radio" name="a7" id="7">
+<td>Goa<input type="radio" name="a7">
+<td>none of these<input type="radio" name="a7">
+</tr>
+<tr>
+<td>8. Which state has the largest area?
+ 
+
+<td>Maharashtra<input type="radio" name="a8">
+<td>Madhya Pradesh<input type="radio" name="a8">
+<td>Uttar Pradesh<input type="radio" name="a8">
+<td>Rajasthan<input type="radio" name="a8" id="8">
+<td>none of these<input type="radio" name="a8">
+</tr>
+<tr>
+<td>9. Which state has the largest population?
+<td>Uttar Pradesh<input type="radio" name="a9" id="9">
+<td>Maharastra<input type="radio" name="a9">
+<td>Bihar<input type="radio" name="a9">
+<td>Andra Pradesh<input type="radio" name="a9">
+<td>none of these<input type="radio" name="a9">
+</tr>
+<tr>
+<td>10.Which of the following states is not located in the North?
+<td>Jharkhand<input type="radio" name="a10" id="10">
+<td>Jammu and Kashmir<input type="radio" name="a10">
+<td>Himachal Pradesh<input type="radio" name="a10">
+<td>Haryana<input type="radio" name="a10">
+<td>none of these<input type="radio" name="a10">
+</tr>
+</table>
+<center>
+<br>
+<br>
+<button onclick="ques()">submit</button>
+</body>
+</html>
+

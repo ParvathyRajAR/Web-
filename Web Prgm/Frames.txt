@@ -1,0 +1,116 @@
+<html>
+<head>
+<title>courses</title>
+</head>
+<body bgcolor="tan">
+<center>
+<h1>COURSES<h1>
+<h1><font color="white"><a href="btech nav.html" target="j">Btech</a><br>
+<hr>
+<a href="mtech.html" target="j">Mtech</a><br>
+<hr>
+<a href="mca.html" target="j">MCA</a><br>
+<hr>
+<a href="mba.html" target="j">MBA</a></h1>
+<hr>
+</center>
+</body>
+ 
+<html>
+<head>
+<title>display</title>
+<body><h1><hr>
+<marquee>...DETAILS WILL DISPLAY HERE...</marquee></h1>
+<hr>
+</body>
+</head>
+</html>       
+
+<html>
+<head>
+<title>MBA</title>
+<body bgcolor="red">
+<h1><font color="white"><h1 align="center">MBA</h1>
+<p>MBA stands for Masters of Business Administration. An MBA is an advanced degree that provides theoretical and practical training in business principles and leadership skills. MBA recipients obtain this postgraduate degree to further enhance their marketability as a professional.</p>
+<hr>
+<center>
+<img src="C:\Users\parva\Downloads\mba.jpeg" width="50%" height="50%"></img>
+</center>
+</body>
+</head>
+</html>
+
+<html>
+<head>
+<title>MCA</title>
+<body bgcolor="blue">
+<h1><font color="pink"><h1 align="center">MCA</h1>
+<p>Master of Computer Applications (MCA) is a two-year professional post-graduate course for candidates wanting to delve deeper into the world of Computer Application development with the help of learning modern programming language. The programme is a blend of both theoretical and practical knowledge.</p>
+<hr>
+<center>
+<img src="C:\Users\parva\Downloads\mca.jpeg" width="80% height="80%"></img>
+<iframe src="ads.html" length="80%">
+</center>
+</body>
+</head>
+</html>
+
+<html>
+<head>
+<title>MTECH</title>
+<body bgcolor="yellow">
+<h1><h1 align="center">MTECH</h1>
+<hr>
+<h2>
+<ul type="disc">
+<li>Mtech in Power Electronics & Power Systems 
+<li>Mtech in Computer Science & Engineering
+<li>Mtech in Communication Engineering
+<li>Mtech in VLSI & Embedded Systems
+</ul>
+<center>
+<img src="C:\Users\parva\Downloads\mtech.jpeg" width="50%" height="50%"></img>
+</center>
+</body>
+</head>
+</html
+
+<html>
+<head>
+<title>BTECH</title>
+<body bgcolor="pink">
+<h1><h1 align="center">BTECH</h1>
+<hr>
+<h2>
+<ul type="disc">
+<li>Btech in Civil Engineering
+<li>Btech in Computer Science & Engineering
+<li>Btech in Computer Science and Engineering (Artificial Intelligence)
+<li>Btech in Electronics and Biomedical Engineering
+<li>Btech in Electrical & Electronics Engineering
+<li>Btech in Electronics & Communication Engineering
+<li>Btech in Mechanical Engineering
+<li>Btech in Robotics and Automation
+</ul>
+<img src="C:\Users\parva\Downloads\adipic.jpg"</img>
+</body>
+</head>
+</html
+
+<html>
+<head>
+<title>courses</title>
+<frameset cols="30%,*">
+<frame src="href.html" name="courses">
+<frame src="display.html" name="j">
+</frameset>
+</head>
+</html>
+
+
+
+
+
+
+
+   
